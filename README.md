@@ -1,2 +1,3 @@
-# Examples of Topological Data Analysis in Machine Learning
+# deep-tda
+Still in progress
 
