@@ -1,3 +1,3 @@
 # deep-tda
-Still in progress
+Still in progress... 
 
