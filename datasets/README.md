@@ -25,4 +25,4 @@ where $(x_0, y_0)$ and $r$ is given. If `x0` and/or `y0`, is not specified, then
 - `animate_r`: <br>
 Animate the dynamical system with fixed initial conditions and varying $r$ values.
 - `animate_X`: <br>
-Animate the sequence $(X_n,Y_n)_{n=0} ^{N-1}$ 
+Animate the sequence $(x_n,y_n)_{n=0} ^{N-1}$ 
