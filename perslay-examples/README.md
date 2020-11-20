@@ -1,4 +1,5 @@
 # perslay-examples
+Examples of machine learning with PersLay, as defined by Mathieu Carrière in [this article](https://arxiv.org/pdf/1904.09378.pdf)
 
 <h2>
   <p align="center"> PersLay Architecture </p>
