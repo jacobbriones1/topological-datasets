@@ -8,9 +8,9 @@ X,Y = GeneratePoints(N= 500, r=2.1, plot = True)
 animate_r(rmin = 1.9, rmax = 2.3, N = 500, x0 = X[0], y0 = Y[0], steps = 500)
 animate_X(r=2.1, N=500, x0=X[0],y0=Y[0]):
 ```
-Solarized dark             |  Solarized Ocean
+Dynamical System Progression           |  System with varying $r$ values
 :-------------------------:|:-------------------------:
-![Animate Dynamical System as $n$ grows](animate_X.gif)  |  ![Animate Dynamical System as $n$ grows](animate_r.gif)
+![](animate_X.gif)  |  ![](animate_r.gif)
 <p align="center">
   <img src = "animate_X.gif" alt>
 </p>
