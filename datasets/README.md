@@ -1,7 +1,7 @@
 # Data Sets
 
-## Dynamical2D.py
-### Functions for Generation and visualization of a 2-dimensional dynamical system in the unit square.
+## Dynamical2D 
+Functions for generation and visualization of a 2-dimensional dynamical system in the unit square.
 Example:
 ```
 X,Y = GeneratePoints(N= 500, r=2.1, plot = True)
