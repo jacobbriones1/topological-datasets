@@ -5,7 +5,7 @@ Functions for generation and visualization of a 2-dimensional dynamical system i
 Example:
 ```
 X,Y = GeneratePoints(N= 500, r=2.1, plot = True)
-animate_r(rmin = 1.9, rmax = 2.4, N = 500, x0 = X[0], y0 = Y[0], steps = 500)
+animate_r(rmin = 1.9, rmax = 2.3, N = 500, x0 = X[0], y0 = Y[0], steps = 500)
 animate_X(r=2.1, N=500, x0=X[0],y0=Y[0]):
 
 ```
